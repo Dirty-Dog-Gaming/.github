@@ -1,5 +1,3 @@
-# Dirty Dog Gaming - MC Network
+# Dirty Dog SA - Plugin Development
 
-A South African Minecraft Survival, Skyblock, Prison & Minigame server in the making
-
-Come join us on server IP: *__play.dirtydoggaming.co.za__*
+See our plugins in action on FenixCraft server IP: *__play.minecraftsa.co.za__*
