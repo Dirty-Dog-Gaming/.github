@@ -1,3 +1,3 @@
 # Dirty Dog SA - Plugin Development
 
-See our plugins in action on FenixCraft server IP: *__play.minecraftsa.co.za__*
+For a list of our plugins please visit [our SpigotMC page](https://www.spigotmc.org/resources/authors/donnavan.729586/)
